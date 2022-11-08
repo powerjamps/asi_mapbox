@@ -1,3 +1,5 @@
+#!/Users/james/Documents/AirspaceIntelligence/Projects/mapbox-uploader/env/bin/python
+
 from mapbox import Uploader
 from pathlib import Path
 import argparse
